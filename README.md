@@ -4,8 +4,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work.;LangGraph+%7C+RAG+Pipelines+%7C+Multi-Agent+AI;Full-Stack+%7C+React+%7C+FastAPI+%7C+Node.js;500%2B+LeetCode+Problems+%7C+CGPA+8.10)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/aditee-srivastava-a942a128a/))
