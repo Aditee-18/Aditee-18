@@ -87,38 +87,16 @@ I build things that combine solid software engineering with real AI capability -
 
 ---
 
-## 🚀 Featured Projects
+## 🗂️ Featured Projects
 
-### 🏥 [MedNexus — AI-Powered Clinical Intelligence Platform](https://github.com/Aditee-18)
-> Full-stack clinician dashboard with real-time AI-driven patient intelligence
-
-- Engineered a modular **LangGraph** backend with 5 service modules: patient lookup, semantic retrieval, document ingestion, health trend analysis, and alert generation
-- Built an automated ingestion pipeline for **4 document formats** (PDF, CSV, TXT, scanned images via OCR), indexing records into **ChromaDB** for semantic retrieval
-- Designed 2 REST APIs for conversational querying and document ingestion; **MongoDB** for metadata storage
-
-`FastAPI` `React.js` `LangGraph` `LangChain` `ChromaDB` `MongoDB` `EasyOCR` `REST APIs`
-
----
-
-### ⚖️ [Legal Research Assistant — Multi-Agent RAG Pipeline](https://github.com/Aditee-18)
-> Autonomous legal research over 5,000+ Indian Supreme Court judgments
-
-- Architected a **4-agent LangGraph pipeline** (Planner, Retriever, Analyzer, Memo Writer) with conditional replanning for autonomous retrieval quality control
-- Indexed ~5,000 Supreme Court judgment PDFs (2010–2024) into **Qdrant** using `BAAI/bge-small-en-v1.5` embeddings
-- Integrated **Llama 3.3 70B via Groq** with structured prompt engineering; diagnosed and resolved LLM hallucination via retrieval context validation
-
-`LangGraph` `LangChain` `Qdrant` `Groq API` `Llama 3.3 70B` `Python` `Google Colab`
-
----
-
-### 🛡️ [SafetyNet — Crowdsourced Disaster Preparedness Platform](https://github.com/Aditee-18)
-> Real-time disaster management platform supporting 500+ concurrent users
-
-- Trained a **YOLOv8** model for human detection under debris achieving **94% accuracy**; built ML models for flood and earthquake risk prediction
-- Implemented geospatial REST APIs with **PostgreSQL + PostGIS**, enabling spatial queries with **< 300ms response time**
-- Integrated real-time maps via **OpenStreetMap** for live disaster and resource visualization
-
-`React.js` `Node.js` `Express.js` `YOLOv8` `PostgreSQL` `PostGIS` `TypeScript` `Python`
+| Project | Description | Stack |
+|---|---|---|
+| [🛡️ Active-Cyber-Defense](https://github.com/Aditee-18/Active-Cyber-Defense) | Simulates a full security incident lifecycle — detects active attacks and demonstrates real-time response | Security |
+| [🍯 Honeypot-Armour](https://github.com/Aditee-18/Honeypot-Armour) | Honeypot-based threat detection system | JavaScript |
+| [🤖 AI-Health-Chatbot](https://github.com/Aditee-18/AI-Chatbot-Health-Chatbot-SIH) | AI-powered health assistant chatbot built for SIH | AI |
+| [🛒 E-Commerce App](https://github.com/Aditee-18/E-commerce-web-application) | Full-featured e-commerce web application | JavaScript |
+| [💸 SplitEasy](https://github.com/Aditee-18/spliteasy-app) | Expense-splitting app for groups | JavaScript |
+| [🎨 Frontend Clones](https://github.com/Aditee-18/FrontendClones-) | Collection of frontend UI clones | HTML/CSS |
 
 ---
 
