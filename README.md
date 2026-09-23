@@ -19,15 +19,14 @@
 
 ## 👋 About Me
 
-I'm **Aditee** — a CS student at **VIT Bhopal** (CGPA: 8.10) focused on **Agentic AI, RAG pipelines, and full-stack development**.
+I'm **Aditee** - a CS student at **VIT Bhopal** focused on **Generative AI and full-stack development**.
 
-I build things that combine solid software engineering with real AI capability — multi-agent workflows, semantic retrieval systems, and production-ready web platforms.
+I build things that combine solid software engineering with real AI capability - multi-agent workflows, semantic retrieval systems, and production-ready web platforms.
 
 - 🎓 B.Tech CSE @ VIT Bhopal · 2023–2027
 - 🤖 Interested in **Agentic AI, RAG systems, LangGraph, and LLM engineering**
 - 💻 Strong in **DSA, OOP, System Design, DBMS, OS, Computer Networks**
 - 🏆 Selected for **Flipkart GRiD 8.0 – Round 3** (2026)
-- ⚡ Solved **500+ LeetCode problems**
 - 📬 Reach me at **aditeesrivastava1802@gmail.com**
 
 ---
