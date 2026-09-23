@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/aditee-srivastava-a942a128a/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditeesrivastava1802@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditee--18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditee-18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c6af7?style=for-the-badge&logo=vercel&logoColor=white)](https://claude.ai/artifact/UfJPbs4noWn79cgZSE8WdA)
 
 </div>
 
@@ -109,13 +108,6 @@ Currently, I'm strengthening my **DSA, CS fundamentals, and AI/GenAI skills** wh
 <div align="center">
 
 *Open to **Software Engineering** and **AI Engineering** opportunities* 🚀
-
-</div>
-<div align="center">
-
-*Open to **Software Engineering** and **AI Engineering** opportunities* 🚀
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Aditee-18&color=7c6af7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Aditee-18)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=120&section=footer" width="100%" />
 
