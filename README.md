@@ -88,19 +88,19 @@ Currently, I'm strengthening my **DSA, CS fundamentals, and AI/GenAI skills** wh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditee-18&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditee-18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aditee-18&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditee-18&theme=tokyo-night&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditee-18&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
 
 ---
 
