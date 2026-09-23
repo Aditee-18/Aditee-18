@@ -98,12 +98,6 @@ Currently, I'm strengthening my **DSA, CS fundamentals, and AI/GenAI skills** wh
 
 ---
 
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditee-18)
-
----
-
 <div align="center">
 
 *Open to **Software Engineering** and **AI Engineering** opportunities* 🚀
