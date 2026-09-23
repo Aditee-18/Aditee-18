@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Aditee%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20%7C%20Agentic%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Aditee%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
@@ -17,19 +17,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditee-18&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
-# Aditee Srivastava
-
-### Computer Science Student @ VIT Bhopal
-#### Generative AI · Agentic AI · Full-Stack Development
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditee.srivastava1802@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditee--18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditee-18)
-
-</div>
-
----
 
 Hi! I'm **Aditee**, an aspiring **Software Engineer** and Computer Science student who enjoys building practical software and AI-powered applications.
 
