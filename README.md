@@ -1,15 +1,12 @@
 <div align="center">
 
-<h1>👩‍💻 Aditee Srivastava</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Aditee%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI&descAlignY=58&descSize=18" width="100%" />
+<h1>Aditee Srivastava</h1>
 
-<p><b>Software Engineer &nbsp;·&nbsp; Generative AI</b></p>
+<br/>
+<p><strong>Software Engineer · Generative AI</strong></p>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:aditeesrivastava1802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/Aditee-18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Aditee-18&color=7c3aed&style=for-the-badge&label=Profile+Views"/>
-</p>
+<br/>
 
 </div>
 
@@ -95,5 +92,5 @@ Full-stack disaster management platform for real-time incident reporting at scal
 ---
 
 <div align="center">
-<sub>Open to Software Engineering and AI Engineering roles &nbsp;·&nbsp; <a href="mailto:aditeesrivastava1802@gmail.com">aditeesrivastava1802@gmail.com</a></sub>
+<sub>Open to Software Engineering and AI Engineering roles · <a href="mailto:aditeesrivastava1802@gmail.com">aditeesrivastava1802@gmail.com</a></sub>
 </div>
