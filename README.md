@@ -64,6 +64,27 @@ Full-stack disaster management platform for real-time incident reporting at scal
 
 ---
 
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+`C++` `Python` `JavaScript` `TypeScript` `SQL` `Bash`
+
+**AI / GenAI**
+`LangChain` `LangGraph` `RAG` `Agentic AI` `Prompt Engineering` `HuggingFace Transformers` `Groq API` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib`
+
+**Web / Backend**
+`React.js` `Node.js` `Express.js` `FastAPI` `REST APIs` `HTML` `CSS`
+
+**Databases**
+`MongoDB` `PostgreSQL` `MySQL` `ChromaDB` `Qdrant`
+
+**Developer Tools**
+`Git` `GitHub` `VS Code` `Postman` `Google Colab`
+
+---
+
 ### 🏆 Achievements
 
 - **Flipkart GRiD 8.0 (2026)** — Selected for Round 3, advancing through Flipkart's flagship engineering competition.
