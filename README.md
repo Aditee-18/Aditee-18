@@ -1,12 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Aditee%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI&descAlignY=58&descSize=18" width="100%" />
-<h1>Aditee Srivastava</h1>
-
-<br/>
-<p><strong>Software Engineer · Generative AI</strong></p>
-
-<br/>
 
 </div>
 
@@ -16,7 +10,7 @@
 
 CS student at **VIT Bhopal** building things at the intersection of software engineering and AI — multi-agent RAG pipelines, full-stack platforms, and ML systems that solve real problems.
 
-- 🎓 B.Tech Computer Science & Engineering, VIT Bhopal (2023 – 2027) · CGPA: 8.10
+- 🎓 B.Tech Computer Science & Engineering, VIT Bhopal (2023 – 2027) 
 - 🤖 Deep interest in **Generative AI, Agentic AI, RAG systems, and full-stack development**
 - 🧠 Strengthening **DSA and CS fundamentals** alongside AI/GenAI engineering
 - 📬 Open to **Software Engineering** and **AI Engineering** opportunities
@@ -85,12 +79,14 @@ Full-stack disaster management platform for real-time incident reporting at scal
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditee-18&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditee-18&theme=tokyo-night&hide_border=true&area=true)
-
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to Software Engineering and AI Engineering roles · <a href="mailto:aditeesrivastava1802@gmail.com">aditeesrivastava1802@gmail.com</a></sub>
+
+*Open to **Software Engineering** and **AI Engineering** opportunities* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=120&section=footer" width="100%" />
+
 </div>
