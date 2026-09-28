@@ -75,8 +75,6 @@ Full-stack disaster management platform for real-time incident reporting at scal
 
 <div align="center">
 
-![Aditee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditee-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditee-18&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditee-18&theme=tokyonight&hide_border=true)
 
 </div>
