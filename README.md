@@ -1,107 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Aditee%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI&descAlignY=58&descSize=18" width="100%" />
+<h1>Aditee Srivastava</h1>
 
-<br/>
+<p><strong>Software Engineer · Generative AI</strong></p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/aditee-srivastava-a942a128a/))
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditeesrivastava1802@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditee--18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditee-18)
+<p>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:aditeesrivastava1802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Aditee-18"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Aditee-18&color=7c3aed&style=flat-square&label=Profile+Views"/>
+</p>
 
 </div>
 
 ---
+
+### 👋 About Me
+
+CS student at **VIT Bhopal** who enjoys building software that sits at the intersection of engineering and AI. I'm drawn to problems where clean system design and intelligent automation come together — whether that's a multi-agent RAG pipeline, a full-stack platform, or an ML model solving something real.
+
+- 🎓 B.Tech in Computer Science & Engineering, VIT Bhopal (2023 – 2027) · CGPA: 8.10
+- 🤖 Interested in **Generative AI, Agentic AI, RAG systems, and full-stack development**
+- 🧠 Currently deepening my **DSA and CS fundamentals** alongside AI/GenAI engineering skills
+- 📬 Open to **Software Engineering** and **AI Engineering** opportunities
+
+---
+
+### 💼 Experience
+
+**AI Engineer Intern** · Coding Blocks School of Technology &nbsp;·&nbsp; *June 2026 – July 2026*
+
+- Built an LLM-based Legal Research Assistant using LangChain, LangGraph, Qdrant, and Llama 3.3 for Indian Supreme Court judgment retrieval.
+- Designed a multi-agent RAG workflow enabling semantic search, case summarization, and legal memo generation.
+
+---
+
+### 🚀 Projects
+
+**[MedNexus — AI-Powered Clinical Intelligence Platform](https://github.com/Aditee-18/AI-Chatbot-Health-Chatbot-SIH)**
+
+Full-stack clinician dashboard with real-time chat, file upload, voice input, and async REST API communication.
+
+- FastAPI backend with 2 REST APIs for conversational querying and automated document ingestion; MongoDB for patient metadata, ChromaDB for semantic retrieval.
+- Automated ingestion pipeline for 4 document formats (PDF, CSV, TXT, scanned images via OCR) with embedding generation and patient-specific indexing.
+- Modular LangGraph backend with 5 service modules: patient lookup, semantic retrieval, document ingestion, health trend analysis, and alert generation.
+- `FastAPI` `React.js` `Python` `MongoDB` `ChromaDB` `LangGraph` `LangChain` `EasyOCR`
+
+---
+
+**[Legal Research Assistant](https://github.com/Aditee-18/Active-Cyber-Defense)**
+
+Multi-agent RAG pipeline for autonomous retrieval and analysis of Indian Supreme Court judgments.
+
+- Architected a 4-agent LangGraph pipeline (Planner → Retriever → Analyzer → Memo Writer) with a conditional replanning loop for retrieval quality control.
+- Indexed ~5,000 Supreme Court PDFs (2010–2024) into Qdrant using BAAI/bge-small-en-v1.5 embeddings.
+- Integrated Llama 3.3 70B via Groq with structured prompt engineering for JSON extraction, with fallback handling for malformed LLM outputs.
+- `LangGraph` `LangChain` `Qdrant` `Groq API` `BAAI/bge-small-en-v1.5` `Google Colab`
+
+---
+
+**[SafetyNet — Crowdsourced Disaster Preparedness Platform](https://github.com/Aditee-18/E-commerce-web-application)**
+
+Full-stack disaster management platform built for real-time incident reporting at scale.
+
+- Architected with React, Node.js, and Express.js supporting 500+ concurrent users.
+- Trained a YOLOv8 model for human detection under debris — 94% accuracy; built ML models for flood and earthquake risk prediction.
+- Geospatial REST APIs with PostgreSQL + PostGIS enabling spatial queries under 300ms for rapid emergency response.
+- Integrated OpenStreetMap for real-time disaster and resource visualization.
+- `React.js` `Node.js` `Express.js` `Python` `YOLOv8` `PostgreSQL` `PostGIS` `TypeScript`
+
+---
+
+### 🏆 Achievements
+
+- **Flipkart GRiD 8.0 (2026)** — Selected for Round 3, advancing through initial technical evaluation rounds of Flipkart's flagship engineering competition.
+- **LeetCode** — Solved 500+ problems, strengthening DSA foundations and preparing for technical interviews.
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditee-18&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Aditee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditee-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditee-18&layout=compact&theme=tokyonight&hide_border=true)
 
-Hi! I'm **Aditee**, an aspiring **Software Engineer** and Computer Science student who enjoys building practical software and AI-powered applications.
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditee-18&theme=tokyonight&hide_border=true)
 
-I'm particularly interested in **Generative AI, Agentic AI, RAG systems, and full-stack development**, and I enjoy combining software engineering with AI to build solutions for real-world problems.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditee-18&theme=tokyo-night&hide_border=true&area=true)
 
-Currently, I'm strengthening my **DSA, CS fundamentals, and AI/GenAI skills** while exploring new technologies and building projects along the way.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**AI / GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Web / Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F76C5E?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-
-**Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-## 🚀 What I Build
-
-- 🤖 AI-powered applications and **GenAI / Agentic AI systems**
-- 🔗 **RAG pipelines and multi-agent workflows**
-- 🌐 Full-stack web applications
-- 🛡️ Software solutions focused on real-world use cases
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditee-18&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditee-18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditee-18&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
 <div align="center">
-
-*Open to **Software Engineering** and **AI Engineering** opportunities* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=120&section=footer" width="100%" />
-
+<sub>Open to Software Engineering and AI Engineering roles · <a href="mailto:aditeesrivastava1802@gmail.com">aditeesrivastava1802@gmail.com</a></sub>
 </div>
