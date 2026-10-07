@@ -1,5 +1,5 @@
 <div align="center">
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Aditee%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI&descAlignY=58&descSize=18" width="100%" />
 
 </div>
