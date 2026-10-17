@@ -5,7 +5,7 @@
 </div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Aditee-18&color=7c6af7&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Aditee-18)
 ### 👋 About Me
 
 CS student at **VIT Bhopal** building things at the intersection of software engineering and AI — multi-agent RAG pipelines, full-stack platforms, and ML systems that solve real problems.
