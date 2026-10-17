@@ -5,7 +5,7 @@
 </div>
 
 ---
-![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue)
+![](https://img.shields.io/static/v1?username=Aditee-18&label=Profile+views&message=1234567890&color=blue)
 ### 👋 About Me
 
 CS student at **VIT Bhopal** building things at the intersection of software engineering and AI — multi-agent RAG pipelines, full-stack platforms, and ML systems that solve real problems.
