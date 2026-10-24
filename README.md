@@ -28,7 +28,7 @@ CS student at **VIT Bhopal** building things at the intersection of software eng
 
 ### 🛠️ Projects
 
-**[MedNexus — AI-Powered Clinical Intelligence Platform](https://github.com/Aditee-18)**
+**[MedNexus — AI-Powered Clinical Intelligence Platform]([https://github.com/Aditee-18](https://github.com/Aditee-18/MedNexus-AI-Powered-Clinical-Intelligence-Platform))**
 
 Full-stack clinician dashboard with real-time chat, voice input, file upload, and async REST API communication.
 
@@ -40,7 +40,7 @@ Full-stack clinician dashboard with real-time chat, voice input, file upload, an
 
 ---
 
-**[Legal Research Assistant — Multi-Agent RAG Pipeline](https://github.com/Aditee-18)**
+**[Legal Research Assistant — Multi-Agent RAG Pipeline]([https://github.com/Aditee-18](https://github.com/Aditee-18/Legal-Research-assistant))**
 
 Autonomous retrieval and analysis of Indian Supreme Court judgments using a 4-agent LangGraph pipeline.
 
@@ -52,7 +52,7 @@ Autonomous retrieval and analysis of Indian Supreme Court judgments using a 4-ag
 
 ---
 
-**[SafetyNet — Crowdsourced Disaster Preparedness Platform](https://github.com/Aditee-18)**
+**[SafetyNet — Crowdsourced Disaster Preparedness Platform]([https://github.com/Aditee-18](https://github.com/Aditee-18/Crowdsourced-Disaster-preparedness-platform-))**
 
 Full-stack disaster management platform for real-time incident reporting at scale.
 
